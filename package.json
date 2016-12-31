@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "straight forward support website",
   "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "test": "(npmts)"
   },
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://gitlab.com/pushrocks/frontdesk/issues"
   },
-  "homepage": "https://gitlab.com/pushrocks/frontdesk#README"
+  "homepage": "https://gitlab.com/pushrocks/frontdesk#README",
+  "dependencies": {
+    "typings-global": "^1.0.14"
+  }
 }
