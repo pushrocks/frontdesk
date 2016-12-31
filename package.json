@@ -1,0 +1,25 @@
+{
+  "name": "frontdesk",
+  "version": "1.0.0",
+  "description": "straight forward support website",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "(npmts)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/pushrocks/frontdesk.git"
+  },
+  "keywords": [
+    "support",
+    "website",
+    "angular2",
+    "pushrocks"
+  ],
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/pushrocks/frontdesk/issues"
+  },
+  "homepage": "https://gitlab.com/pushrocks/frontdesk#README"
+}
