@@ -1,6 +1,6 @@
 {
   "name": "frontdesk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "straight forward support website",
   "main": "dist/index.js",
   "scripts": {
